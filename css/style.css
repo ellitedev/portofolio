@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Roboto',
+    sans-serif;
+};
+
+.title-container {
+    margin: auto;
+}
+
+.page-title {
+    text-align: center;
+}
